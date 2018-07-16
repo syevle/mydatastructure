@@ -1,0 +1,6 @@
+Q1) Why MergeSort is preferred over QuickSort for Linked Lists?
+ans> https://www.geeksforgeeks.org/quick-sort/
+
+Q2) How to optimize QuickSort so that it takes O(Log n) extra space in worst case?
+ans> https://www.geeksforgeeks.org/quick-sort/
+
